@@ -1,0 +1,97 @@
+body {
+  background-color: grey;
+}
+#Button1 {
+  color:navy;
+  font-family: Oxanium;
+  font-size: 15px;
+  text-align:center;
+  display: block;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+#button2 {
+  padding: 15px 20px;
+  border-radius: 4px;
+  background-color:rgb(31, 139, 139);
+  color: orange;
+  width: 120px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  box-shadow: 6px 6px 5px black;
+}
+
+#button2:hover {
+  background-color: orange;
+  color: rgb(31, 139, 139);
+  box-shadow: 0px 0px 0px black;
+}
+
+h1 {
+  color:mediumblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2{
+  color: mediumblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+h3 {
+  color:navy;
+  font-family: Oxanium;
+  text-align: center;
+}
+
+p {
+  font-family: Oxanium;
+  color:mediumblue;
+  text-align: center;
+}
+
+.plugs:hover {
+  color: blueviolet;
+  font-family: Oxanium;
+}
+
+#ellis{
+  border-radius: 50%;
+  box-shadow: 10px 10px 5px black;
+  display: block;
+  margin: 0 auto;
+}
+
+.plugs {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  border: 3px solid black;
+  border-radius: 25px;
+  background-color: lightgray;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 5px 5px 3px grey;
+}
+
+#follow{
+  font-size: 30px;
+}
+
+.fixer{
+  border: 3px solid black;
+  border-radius: 25px;
+  background-color:lightgray;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 5px 5px 3px grey;
+}
